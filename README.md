@@ -9,8 +9,6 @@ I’m a Computer Science Engineering graduate With a strong foundation in JavaSc
 - MySQL
 - Visual Studio Code, Git
 
-🌐 Currently looking for remote part-time or freelance opportunities where I can contribute to meaningful software projects, learn continuously, and grow as a developer.
-
 <!--
 **Nikitha-nv/Nikitha-nv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
