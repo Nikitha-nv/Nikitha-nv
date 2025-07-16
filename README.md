@@ -4,7 +4,7 @@ I’m a Computer Science Engineering graduate With a strong foundation in JavaSc
 
 🖥️ Technical Skills:
 
-- HTML, CSS, JavaScript,Python
+- HTML, CSS, JavaScript,Python, Jupyter Notebook, Machine Learning
 - Node.js, Express
 - MySQL
 - Visual Studio Code, Git
