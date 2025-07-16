@@ -1,6 +1,6 @@
 Hi everyone 👋
 
-I’m a Computer Science Engineering graduate With a strong foundation in JavaScript, Python and Machine Learning demonstrating my ability to work in agile.
+I’m a Computer Science Engineering graduate With a strong foundation in JavaScript, Python and Machine Learning, demonstrating my ability to work in agile.
 
 🖥️ Technical Skills:
 
